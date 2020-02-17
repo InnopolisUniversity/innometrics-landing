@@ -135,6 +135,11 @@ figure {
     padding: 28px 1em;
   }
 }
+@media screen and (max-width: 600px) {
+  .mac-collectors {
+    flex-direction: column;
+  }
+}
 .colorlib-nav #colorlib-logo {
   font-size: 20px;
   margin: 0;
