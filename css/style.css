@@ -1870,3 +1870,19 @@ input[type="text"] {
 .js .animate-box {
   opacity: 0;
 }
+
+.download-list {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.mac-collectors {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#mac-collector {
+  margin-right: 2rem;
+}
